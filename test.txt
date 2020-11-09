@@ -1,0 +1,35 @@
+
+MVC framework
+
+Models
+Views
+Controllers
+
+
+1. Models = Entities
+ - Entity Relationship Diagrams
+
+ i. Posts
+ ii. Users
+    - Admin
+    - Casual Users
+-> Users have Posts
+-> Users have followers
+-> Users have other users they follow
+
+2. Controllers
+ - Create
+ - Read
+ - Update
+ - Delete
+ - More Functions
+
+
+3. Views
+ - CSS Framework <Bootstrap>
+ - Laravel/ui package
+ - Blade Templates
+
+ - Static VS Dynamic
+ (Data)
+
